@@ -1,2 +1,3 @@
 # aprendiendoReact
-Curso basico para la introduccion a Reat desde cero
+Curso básico para la introducción a Reat desde cero
+Curso de JavaScript y React
